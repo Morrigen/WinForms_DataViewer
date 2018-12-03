@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<Characters>
+  <Character>
+    <Id>1</Id>
+    <FirstName>Tidus</FirstName>
+    <Occupation>Blitzball Player, Guardian</Occupation>
+    <Age>17</Age>
+    <Gender>Male</Gender>
+    <ImageFileName>Tidus.png</ImageFileName>
+    <Description>
+      Tidus is a rising star blitzball player from Zanarkand, and the son of major blitzball star Jecht. After the monster Sin attacks his hometown, Tidus is transported to the world of Spira. By joining Summoner Yuna on her pilgrimage, Tidus hopes he will find his way home. Tidus is upbeat and initially childish and naive to the world of Spira. He is also selfless and will do what he believes is right even if he doesn't think it through first. Throughout the pilgrimage, he matures and becomes more level-headed and grounded.
+    </Description>
+  </Character>
+
+  <Character>
+    <Id>1</Id>
+    <FirstName>Yuna</FirstName>
+    <Occupation>Summoner</Occupation>
+    <Age>17</Age>
+    <Gender>Female</Gender>
+    <ImageFileName>Yuna.png</ImageFileName>
+    <Description>
+      Yuna becomes a summoner like her father before her, and embarks on a pilgrimage to expel Sin, a monstrous creature that terrorizes the world of Spira. She meets Tidus who teaches her there is more to life than sacrifice. After the quest is over, Yuna becomes a sphere hunter.
+    </Description>
+  </Character>
+
+  <Character>
+    <Id>1</Id>
+    <FirstName>Auron</FirstName>
+    <Occupation>Warrior-Monk, Guardian</Occupation>
+    <Age>35</Age>
+    <Gender>Male</Gender>
+    <ImageFileName>Auron.png</ImageFileName>
+    <Description>
+      Auron watches over Tidus after the disappearance of the kid's father, Jecht. After Auron takes Tidus to Spira, the latter learns Auron is revered as one of the greatest guardians who ever lived, due to serving Lord Braska on his successful pilgrimage. He becomes a guardian for Yuna, Braska's daughter, on her pilgrimage, and is, in many ways, the party's mentor, as the others come to him for advice or ask for his permission.
+    </Description>
+  </Character>
+
+  <Character>
+    <Id>1</Id>
+    <FirstName>Kimahri</FirstName>
+    <Occupation>Guardian</Occupation>
+    <Age>25</Age>
+    <Gender>Male</Gender>
+    <ImageFileName>Kimahri.png</ImageFileName>
+    <Description>
+      Kimahri, while taller than humans, is smaller than the average Ronso, and has a broken horn. He is a fierce protector of Yuna, and very loyal to her. He is mistrusting of others at first, and rarely speaks. He dislikes others trying to solve his problems for him.
+    </Description>
+  </Character>
+
+  <Character>
+    <Id>1</Id>
+    <FirstName>Wakka</FirstName>
+    <Occupation>Blitzball Player, Guardian</Occupation>
+    <Age>23</Age>
+    <Gender>Male</Gender>
+    <ImageFileName>Wakka.png</ImageFileName>
+    <Description>
+      Wakka is the first person Tidus meets after washing up on Besaid, and befriends Tidus after being impressed by his blitzball skills. He is the captain of the Besaid Aurochs, a team that has never won a game. He grew up with Yuna along with Lulu, and views her as a younger sister. Wakka is a loyal friend, and helps Tidus come to grips with Spira.
+    </Description>
+  </Character>
+
+  <Character>
+    <Id>1</Id>
+    <FirstName>Lulu</FirstName>
+    <Occupation>Guardian</Occupation>
+    <Age>22</Age>
+    <Gender>Female</Gender>
+    <ImageFileName>Lulu.png</ImageFileName>
+    <Description>
+      Since Lulu grew up with Yuna in Besaid, she and Wakka view her as a younger sister. Her stoic and self-possessed nature makes her seem insensitive, but conceals a gentleness underneath. She is instrumental in supporting Tidus to adjust to the world of Spira, although she does not initially believe his claim of hailing from Zanarkand.
+    </Description>
+  </Character>
+
+  <Character>
+    <Id>1</Id>
+    <FirstName>Rikku</FirstName>
+    <Occupation>Guardian</Occupation>
+    <Age>15</Age>
+    <Gender>Female</Gender>
+    <ImageFileName>Rikku.png</ImageFileName>
+    <Description>
+      A young Al Bhed girl, Rikku is upbeat and positive, and she is not afraid to speak her mind. She works hard to restore her outcast people to their former glory. Rikku handles mechanical enemies with ease, and can steal items from enemies, too. She is close to and protective of her cousin Yuna, whom she refers to as "Yunie". After their quest to defeat Sin, Rikku convinces Yuna to become a sphere hunter, and accompanies her.
+    </Description>
+  </Character>
+    
+</Characters>
